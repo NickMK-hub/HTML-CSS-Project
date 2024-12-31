@@ -41,8 +41,8 @@ p {
 
 a {
   text-decoration: none;
-  transition: opacity 300ms ease;
   display: inline;
+  transition: opacity 300ms ease;
 }
 
 section {
@@ -1027,9 +1027,7 @@ footer {
 .footer__column--link {
   font-size: 14px;
   margin-top: 24px;
-}
-
-.footer__column--link {
+  line-height: 1.5;
   margin-top: 12px;
 }
 
